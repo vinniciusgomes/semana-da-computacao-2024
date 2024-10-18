@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
-    "./button": "./src/button.tsx"
+    "./tokens": "./src/tokens/index.ts",
+    "./components": "./src/components/index.ts"
   },
   "scripts": {
     "lint": "eslint . --max-warnings 0",
