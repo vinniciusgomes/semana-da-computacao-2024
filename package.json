@@ -1,5 +1,5 @@
 {
-  "name": "aula-01",
+  "name": "unisal-ds",
   "private": true,
   "scripts": {
     "build": "turbo build",
